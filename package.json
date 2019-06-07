@@ -1,0 +1,27 @@
+{
+  "name": "sukanyapedamkar.github.io-master",
+  "version": "1.0.0",
+  "description": "Sukanya Portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^>=3.4.0",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.12.0",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukanyapedamkar/sukanyapedamkar.github.io.git"
+  },
+  "author": "Sukanya Pedamkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukanyapedamkar/sukanyapedamkar.github.io/issues"
+  },
+  "homepage": "https://github.com/sukanyapedamkar/sukanyapedamkar.github.io#readme"
+}
